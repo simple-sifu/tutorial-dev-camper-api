@@ -25,4 +25,12 @@
 
 2. npm i -D nodemon
 
-3. 
+3. examples
+
+   ```
+   res.send("Hello World");
+   res.json({name: Tommy});
+   res.sendStatus(400);
+   res.status(400).json({ success: false})
+   res.status(200).json({success: true, data: { id: 1}});
+   ```
