@@ -37,4 +37,6 @@
 
 4. mongodb.com - download mongodb compass pkg
 
-5. mongoose - queries against database.
+5. mongoose - queries against database. npm i mongoose
+
+6. 
